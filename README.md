@@ -39,7 +39,7 @@ Anaconda Download Link : [Anaconda 5.2 (Python 3.6, 64bit, Windows 10)](https://
 ```>>pip install PyHamcrest```
 
 - Install tensorflow-gpu.<br>```>>pip install --ignore-installed --upgrade tensorflow-gpu```
-  - If there is warning about setuptools version. type this command.<br>```conda install setuptools=39.1.0```
+  - If there is warning about setuptools version. type this command.<br>```>>conda install setuptools=39.1.0```
   
 - Check jupyter path via below command.<br>```>>jupyter --path```
   - You can see the path **"ANACONDA_PATH\envs\tensorflow\share\jupyter"** on data path.
